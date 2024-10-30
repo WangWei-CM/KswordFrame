@@ -1,0 +1,10 @@
+#include "ksword.h"
+
+int KSmain();
+
+int main(){
+  return 0;
+}
+int KSmain(){
+  return 0;
+}
